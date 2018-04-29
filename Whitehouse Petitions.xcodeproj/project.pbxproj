@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		6F89429820962E2B00B37AEA /* SwiftyJSON.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6F89429720962E2B00B37AEA /* SwiftyJSON.swift */; };
 		6F89429A2096369D00B37AEA /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6F8942992096369D00B37AEA /* DetailViewController.swift */; };
+		6F89429C20963D6000B37AEA /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 6F89429B20963D6000B37AEA /* README.md */; };
 		6FB1687020950928009A43DD /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6FB1686F20950928009A43DD /* AppDelegate.swift */; };
 		6FB1687220950928009A43DD /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6FB1687120950928009A43DD /* ViewController.swift */; };
 		6FB1687520950928009A43DD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6FB1687320950928009A43DD /* Main.storyboard */; };
@@ -19,6 +20,7 @@
 /* Begin PBXFileReference section */
 		6F89429720962E2B00B37AEA /* SwiftyJSON.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwiftyJSON.swift; sourceTree = "<group>"; };
 		6F8942992096369D00B37AEA /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
+		6F89429B20963D6000B37AEA /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		6FB1686C20950928009A43DD /* Whitehouse Petitions.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Whitehouse Petitions.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		6FB1686F20950928009A43DD /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		6FB1687120950928009A43DD /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -42,6 +44,7 @@
 		6FB1686320950927009A43DD = {
 			isa = PBXGroup;
 			children = (
+				6F89429B20963D6000B37AEA /* README.md */,
 				6FB1686E20950928009A43DD /* Whitehouse Petitions */,
 				6FB1686D20950928009A43DD /* Products */,
 			);
@@ -130,6 +133,7 @@
 			files = (
 				6FB1687A2095092A009A43DD /* LaunchScreen.storyboard in Resources */,
 				6FB168772095092A009A43DD /* Assets.xcassets in Resources */,
+				6F89429C20963D6000B37AEA /* README.md in Resources */,
 				6FB1687520950928009A43DD /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
