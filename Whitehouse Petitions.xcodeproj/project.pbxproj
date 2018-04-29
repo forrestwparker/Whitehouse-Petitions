@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		6F89429820962E2B00B37AEA /* SwiftyJSON.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6F89429720962E2B00B37AEA /* SwiftyJSON.swift */; };
 		6FB1687020950928009A43DD /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6FB1686F20950928009A43DD /* AppDelegate.swift */; };
 		6FB1687220950928009A43DD /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6FB1687120950928009A43DD /* ViewController.swift */; };
 		6FB1687520950928009A43DD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6FB1687320950928009A43DD /* Main.storyboard */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		6F89429720962E2B00B37AEA /* SwiftyJSON.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwiftyJSON.swift; sourceTree = "<group>"; };
 		6FB1686C20950928009A43DD /* Whitehouse Petitions.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Whitehouse Petitions.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		6FB1686F20950928009A43DD /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		6FB1687120950928009A43DD /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -54,6 +56,7 @@
 		6FB1686E20950928009A43DD /* Whitehouse Petitions */ = {
 			isa = PBXGroup;
 			children = (
+				6F89429720962E2B00B37AEA /* SwiftyJSON.swift */,
 				6FB1686F20950928009A43DD /* AppDelegate.swift */,
 				6FB1687120950928009A43DD /* ViewController.swift */,
 				6FB1687320950928009A43DD /* Main.storyboard */,
@@ -135,6 +138,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6F89429820962E2B00B37AEA /* SwiftyJSON.swift in Sources */,
 				6FB1687220950928009A43DD /* ViewController.swift in Sources */,
 				6FB1687020950928009A43DD /* AppDelegate.swift in Sources */,
 			);
